@@ -18,7 +18,8 @@ body {
   font-family: "Kumbh Sans", sans-serif;
   font-size: 12px;
   min-height: 100vh;
-  background: linear-gradient(180deg, var(--Soft-violet), var(--Soft-blue));
+  background: linear-gradient(180deg, var(--Soft-violet), var(--Soft-blue))
+    fixed;
   display: flex;
   align-items: center;
   justify-content: center;
